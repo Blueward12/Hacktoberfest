@@ -33,6 +33,7 @@ Fork this project and add your username + profile link to the [Census](https://g
 ```
 
 ### Census
+ - [Redrum](https://github.com/Blueward12)
  - [AllenCompSci](https://github.com/AllenCompSci)
  - [Mr. Hudson](https://github.com/theshrewedshrew)
  - [ayushagarwal0316](https://github.com/ayushagarwal0316)
